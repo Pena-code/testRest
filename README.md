@@ -1,0 +1,1 @@
+Project created to test a REST API with JSON, implemented using the Spring MVC framework. Tomcat is used as the servlet container for handling HTTP requests, using Maven for dependency resolution, and building the application.
